@@ -25,15 +25,13 @@
 ---
 
 ## 📱 Capturas de pantalla
-- 🏠 Home Page:
+**🏠 Home Page:**
+
 ![image](https://github.com/user-attachments/assets/11ba1e6c-2a79-4f3d-ab2f-e68e22be8d57)
 
-- Visualizer Page:
+**🦸 Visualizer Page:**
+
 ![image](https://github.com/user-attachments/assets/0979a481-e064-42af-99d4-fd90a608b5d1)
-
-
-
-
 
 
 ---
