@@ -1,0 +1,25 @@
+# Asegura que se detecte Dart como lenguaje principal
+*.dart linguist-language=Dart
+
+# Opcionalmente puedes ignorar los archivos C++ para que no influyan en las estadísticas de lenguajes
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.c linguist-vendored
+*.hpp linguist-vendored
+
+# Fuerza el tratamiento de texto (LF en lugar de CRLF)
+* text=auto
+
+# Manejo de binarios comunes
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.mp4 binary
+*.mp3 binary
