@@ -4,7 +4,7 @@
 
 > ⚓ Los piratas más fuertes a tu disposición.
 
----  
+---   
 
 ## 🧭 ¿Qué puedes hacer con la app?
 
